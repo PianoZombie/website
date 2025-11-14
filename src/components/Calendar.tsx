@@ -19,6 +19,7 @@ const Calendar = () => {
       events={{
         googleCalendarApiKey: import.meta.env.PUBLIC_GOOGLE_API_KEY,
         googleCalendarId: 'c_fa86ad1c3f04173928178d272467fcbba9b5160e0fdb37c5e9a97a5473b47e23@group.calendar.google.com',
+        
       }}
     />
   );
